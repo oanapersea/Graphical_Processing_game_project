@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Lab_1_xcode in GLProject, no dependencies
+GLProject in GLProject, no dependencies
